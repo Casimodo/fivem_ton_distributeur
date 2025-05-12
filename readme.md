@@ -1,6 +1,7 @@
 ## 📜 Description
 Ce mini projet est une **ressource pour FiveM** (testé sous ESX) permet de gérer les distributeur et autre comme les machines à café, les boites ventes de journaux
 
+Cliquez sur l'image pour voir la vidéo !
 [![Nom de la vidéo](https://raw.githubusercontent.com/Casimodo/fivem_ton_distributeur/refs/heads/main/capture.png)](https://www.youtube.com/watch?v=uFk1ndrsQ0w)
 
 ---
