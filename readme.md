@@ -33,6 +33,8 @@ Installation des addons
 2. Modifier le fichier 'config.lua' et modifier la section 'event_action_list' qui fait référence aux actions à faire dans l'event de la config au dessus.
 Penser à vérifier le référencement de vos items dans l'exemple du fichier de config tout ne sera pas présent chez vous mais le système permet de vous avertir par message d'erreur avec le nom de l'item en cas de bug.
 
+🧭[Tu peux utiliser ce script admin pour trouver le nom du model directement en jeux](https://github.com/Casimodo/fivem_ton_raycast)
+
 ---
 
 ## 📦 Installation
